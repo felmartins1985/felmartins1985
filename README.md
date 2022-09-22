@@ -19,7 +19,7 @@ I'm a student of Web developer at [Trybe](https://www.betrybe.com).
 <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
 <img align="center" alt="react" src="https://testing-library.com/img/octopus-128x128.png" width="40px"/>
 <img align="center" alt="react" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/redux.png" width="40px"/>
-
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 <br />
 
 ### 📊 Github Stats
