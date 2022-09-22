@@ -33,18 +33,12 @@ Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído
 
 ### 📊 Github Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=felmartins1985&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
-
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felmartins1985&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felmartins1985&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+  
+  
+![Snake animation](https://github.com/felmartins1985/felmartins1985/blob/output/github-contribution-grid-snake.svg)
