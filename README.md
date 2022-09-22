@@ -1,16 +1,16 @@
-# Hi, I'm Felipe 👋
+# Oi, meu nome é Felipe! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/felmartins1985)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/felmartins1985/)
 
 
 ### About me 
-I'm a student of Web developer at [Trybe](https://www.betrybe.com).
+Eu sou um estudante da [Trybe](https://www.betrybe.com). Fiz transição de carreira do direito para software development e não posso estar mais satisfeito com o caminho o qual escolhi! 
 
 <br />
 
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
-### 💻 Technologies and Tools
+### 💻 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
