@@ -5,7 +5,8 @@
 
 
 ### About me 
-Eu sou um estudante da [Trybe](https://www.betrybe.com). Fiz transição de carreira do direito para software development e não posso estar mais satisfeito com o caminho o qual escolhi! 
+Eu sou estudante da [Trybe](https://www.betrybe.com). Fiz transição de carreira do direito para software development e não posso estar mais satisfeito com o caminho o qual escolhi!
+Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído diversos consoles e computadores desde a minha infância, passando horas envolvido nos jogos e programas disponibilizados.
 
 <br />
 
