@@ -20,6 +20,7 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white)
 <br/>
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
@@ -30,6 +31,7 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 <br />
 
 ### 📊 Github Stats
