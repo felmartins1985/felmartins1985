@@ -1,7 +1,8 @@
 # Oi, meu nome é Felipe! 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/felmartins1985)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/felmartins1985/)
+### Contato:
+<a href = "mailto:contato@felmartins1985@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felmartins1985" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
 ### About me 
@@ -42,5 +43,4 @@ Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído
   </a>
 </p>
 
-### Contato:
-<a href = "mailto:contato@felmartins1985@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
