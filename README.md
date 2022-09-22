@@ -18,8 +18,11 @@ I'm a student of Web developer at [Trybe](https://www.betrybe.com).
 <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px"/>
 <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
 <img align="center" alt="react" src="https://testing-library.com/img/octopus-128x128.png" width="40px"/>
+<br/>
 <img align="center" alt="react" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/redux.png" width="40px"/>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 <br />
 
 ### 📊 Github Stats
