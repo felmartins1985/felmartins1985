@@ -8,6 +8,7 @@
 ### About me 
 Eu sou estudante da [Trybe](https://www.betrybe.com), residente em Belo Horizonte/MG. Fiz transição de carreira do direito para programador e não posso estar mais satisfeito com o caminho o qual escolhi!
 Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído diversos consoles e computadores desde a minha infância, passando horas envolvido nos jogos e nos programas disponibilizados.
+Posso dizer que os meus hobbies preferidos atualmente são assistir séries e ler livros sobre ficção.
 
 <br />
 
