@@ -44,4 +44,4 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 
   
   
-![Snake animation](https://github.com/felmartins1985/felmartins1985/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/felmartins1985/felmartins1985/blob/output/github-contribution-grid-snake.svg) -->
