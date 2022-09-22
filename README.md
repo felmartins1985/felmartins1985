@@ -5,8 +5,8 @@
 
 
 ### About me 
-Eu sou estudante da [Trybe](https://www.betrybe.com). Fiz transição de carreira do direito para software development e não posso estar mais satisfeito com o caminho o qual escolhi!
-Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído diversos consoles e computadores desde a minha infância, passando horas envolvido nos jogos e programas disponibilizados.
+Eu sou estudante da [Trybe](https://www.betrybe.com), residente em Belo Horizonte/MG. Fiz transição de carreira do direito para programador e não posso estar mais satisfeito com o caminho o qual escolhi!
+Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído diversos consoles e computadores desde a minha infância, passando horas envolvido nos jogos e nos programas disponibilizados.
 
 <br />
 
@@ -41,3 +41,6 @@ Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído
     />
   </a>
 </p>
+
+### Contato:
+<a href = "mailto:contato@felmartins1985@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
