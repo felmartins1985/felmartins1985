@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/felmartins1985" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
-### About me 
+### Sobre mim
 Eu sou estudante da [Trybe](https://www.betrybe.com), residente em Belo Horizonte/MG. Fiz transição de carreira do direito para programador e não posso estar mais satisfeito com o caminho o qual escolhi!
 Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído diversos consoles e computadores desde a minha infância, passando horas envolvido nos jogos e nos programas disponibilizados.
 Posso dizer que os meus hobbies preferidos atualmente são assistir séries e ler livros sobre ficção.
