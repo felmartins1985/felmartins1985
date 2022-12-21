@@ -48,7 +48,10 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 | Express, Typescript, Sequelize, Postgres e Docker   | React, Context API, Hooks e CSS3    | Express, Typescript, MongoDB e Zod |
 [Repositorio](https://github.com/felmartins1985/NGCash), [Video](https://user-images.githubusercontent.com/98165424/208968498-2c594837-508d-4bf0-933d-50fa8cbeb89d.mp4) | [Repositorio](https://github.com/felmartins1985/app-de-receitas), [Video](https://user-images.githubusercontent.com/98165424/208970189-729287cb-a5c9-432c-88eb-0eac022306d4.mp4)        | [Repositorio](https://github.com/felmartins1985/car-shop)      |
 | <img src="https://user-images.githubusercontent.com/98165424/208967380-cb5d43a5-6350-4259-b629-f6610f4a77d2.png" width="400" height="250">   | <img src="https://user-images.githubusercontent.com/98165424/208971062-9163ce18-93fa-4d98-9b5e-eebd94722232.png" width="300" height="250" >    | <img src="https://user-images.githubusercontent.com/98165424/208975689-acbba297-a25c-441b-b61b-4c8cda7925e5.png" width="400" height="250" >     |
-
+| Trybers and Dragons| Center-aligned | Right-aligned |
+| POO, SOLID e TypeScript   | git status     | git status    |
+| [Repositorio](https://github.com/felmartins1985/trybers-and-dragons)    | git diff       | git diff      |
+| <img src="https://user-images.githubusercontent.com/98165424/208980509-4adc899b-21cc-40a0-9914-acb27c9c3239.png" width="400" height="250" >   | git diff       | git diff      |
 
 
 
