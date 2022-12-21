@@ -44,10 +44,13 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 | Express, Typescript, MySQL, Sequelize e Docker   | React, Redux, BrowserRouter e CSS3     | React, Context API, Hooks e CSS3    |
 | _[Repositorio](https://github.com/felmartins1985/Trybe-Futebol-Clube-TFC-)_     |  _[Repositorio](https://github.com/felmartins1985/trybewallet)_, _[Site](https://trybewallet-ob4zveoc9-felmartins1985.vercel.app/)_       | _[Repositorio](https://github.com/felmartins1985/star-wars-planets-search)_, _[Site](https://star-wars-planets-search-felmartins1985.vercel.app/)_    |
 | <img src="https://github.com/felmartins1985/Trybe-Futebol-Clube-TFC-/blob/main/tfc_classificacao.png" width="400" height="250" alt="Trybe Futebol Clube - Demostração"/>|<img src="https://user-images.githubusercontent.com/98165424/208928091-beec01bd-fbcd-4db4-af3d-8d37bbcded78.png" width="400" height="250"> | <img src="https://github.com/felmartins1985/star-wars-planets-search/blob/main/Captura%20de%20tela%20de%202022-10-06%2018-48-15.png" alt="Star Wars Planets Search Gif - Demostração" width="400" height="250">|
-| Financial APP| Projeto | Projeto |
-| Express, Typescript, Sequelize, Postgres e Docker   | git status     | git status    |
-[Repositorio](https://github.com/felmartins1985/NGCash), [Video](https://user-images.githubusercontent.com/98165424/208968498-2c594837-508d-4bf0-933d-50fa8cbeb89d.mp4)    | git diff       | git diff      |
-| <img src="https://user-images.githubusercontent.com/98165424/208967380-cb5d43a5-6350-4259-b629-f6610f4a77d2.png" width="400" height="250">   | Imagem    | Imagem      |
+| Financial APP| App de Receitas | Projeto |
+| Express, Typescript, Sequelize, Postgres e Docker   | React, Context API, Hooks e CSS3    | git status    |
+[Repositorio](https://github.com/felmartins1985/NGCash), [Video](https://user-images.githubusercontent.com/98165424/208968498-2c594837-508d-4bf0-933d-50fa8cbeb89d.mp4) | [Repositorio](https://github.com/felmartins1985/app-de-receitas), [Video](https://user-images.githubusercontent.com/98165424/208970189-729287cb-a5c9-432c-88eb-0eac022306d4.mp4)        | git diff      |
+| <img src="https://user-images.githubusercontent.com/98165424/208967380-cb5d43a5-6350-4259-b629-f6610f4a77d2.png" width="400" height="250">   | <img src="https://user-images.githubusercontent.com/98165424/208971062-9163ce18-93fa-4d98-9b5e-eebd94722232.png" width="400" height="250" >    | Imagem      |
+
+
+
 
 
 
