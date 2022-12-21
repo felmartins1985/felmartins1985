@@ -47,7 +47,7 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 | Financial APP| App de Receitas | Projeto |
 | Express, Typescript, Sequelize, Postgres e Docker   | React, Context API, Hooks e CSS3    | git status    |
 [Repositorio](https://github.com/felmartins1985/NGCash), [Video](https://user-images.githubusercontent.com/98165424/208968498-2c594837-508d-4bf0-933d-50fa8cbeb89d.mp4) | [Repositorio](https://github.com/felmartins1985/app-de-receitas), [Video](https://user-images.githubusercontent.com/98165424/208970189-729287cb-a5c9-432c-88eb-0eac022306d4.mp4)        | git diff      |
-| <img src="https://user-images.githubusercontent.com/98165424/208967380-cb5d43a5-6350-4259-b629-f6610f4a77d2.png" width="400" height="250">   | <img src="https://user-images.githubusercontent.com/98165424/208971062-9163ce18-93fa-4d98-9b5e-eebd94722232.png" width="300" height="250" >    | Imagem      |
+| <img src="https://user-images.githubusercontent.com/98165424/208967380-cb5d43a5-6350-4259-b629-f6610f4a77d2.png" width="400" height="250">   | <img src="https://user-images.githubusercontent.com/98165424/208971062-9163ce18-93fa-4d98-9b5e-eebd94722232.png" width="300" height="200" >    | Imagem      |
 
 
 
