@@ -43,7 +43,7 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 | :---         |     :---:      |          ---: |
 | Node.js, Express, Typescript, MySQL, Sequelize e Docker   | React, Redux, BrowserRouter e CSS3     | git status    |
 | _[Repositorio](https://github.com/felmartins1985/Trybe-Futebol-Clube-TFC-)_     |  _[Repositorio](https://github.com/felmartins1985/trybewallet)_ , _[Site](https://trybewallet-ob4zveoc9-felmartins1985.vercel.app/)_       | git diff      |
-| <img src="https://github.com/felmartins1985/Trybe-Futebol-Clube-TFC-/blob/main/tfc_classificacao.png" width="500" height="300" alt="Trybe Futebol Clube - Demostração"/>|![Captura de tela de 2022-12-21 11-21-30](https://user-images.githubusercontent.com/98165424/208928091-beec01bd-fbcd-4db4-af3d-8d37bbcded78.png)| Imagem|
+| <img src="https://github.com/felmartins1985/Trybe-Futebol-Clube-TFC-/blob/main/tfc_classificacao.png" width="400" height="250" alt="Trybe Futebol Clube - Demostração"/>|![Captura de tela de 2022-12-21 11-21-30](https://user-images.githubusercontent.com/98165424/208928091-beec01bd-fbcd-4db4-af3d-8d37bbcded78.png)| Imagem|
 
 ### 📊 Github Stats
 
