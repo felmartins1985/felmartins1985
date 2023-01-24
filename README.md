@@ -55,7 +55,7 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 | **Radarfit**| **CashForce** | **Inventory Report** |
 | Node.js, Express, Typescript, MongoDB e Zod   | Node.js, Express, Typescript, MySQL,Docker, React, Context API e TailWind     | Python e POO    |
 | [Repositorio](https://github.com/felmartins1985/radarfit)    | [Repositorio](https://github.com/felmartins1985/cashforce)        | [Repositorio](https://github.com/felmartins1985/inventory_report) |
-| <img src="https://github.com/felmartins1985/radarfit/blob/main/frontend/src/images/Captura%20de%20tela%20de%202023-01-24%2015-17-08.png"  >   | <img src="https://github.com/felmartins1985/cashforce/blob/main/app/front-end/src/images/demonstracao.png" width="400" height="250" >       | <img src="https://user-images.githubusercontent.com/98165424/208986387-0fbfb467-efe7-47cc-814a-bac0b6c709c1.png" width="400" height="250" >      |
+| <img src="https://github.com/felmartins1985/radarfit/blob/main/frontend/src/images/Captura%20de%20tela%20de%202023-01-24%2015-17-08.png"  >   | <img src="https://github.com/felmartins1985/cashforce/blob/main/app/front-end/src/images/demonstracao.png" width="400" height="250" >       | <img src="https://github.com/felmartins1985/inventory_report/blob/main/Captura%20de%20tela%20de%202023-01-24%2016-11-56.png" width="400" height="250" >      |
 
 
 
