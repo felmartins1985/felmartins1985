@@ -52,8 +52,10 @@ Posso dizer que os meus hobbies preferidos atualmente são assistir séries e le
 | POO, SOLID e TypeScript   | Node.js, Express, Typescript, MySQL e Docker     | Node.js, Express, Sequelize com MySQL e Docker    |
 | [Repositorio](https://github.com/felmartins1985/trybers-and-dragons)    | [Repositorio](https://github.com/felmartins1985/trybesmith)        | [Repositorio](https://github.com/felmartins1985/blog-api) |
 | <img src="https://user-images.githubusercontent.com/98165424/208980984-a4ace587-6051-45f6-a02d-2b4c8a801bde.png" width="400" height="250" >   | <img src="https://user-images.githubusercontent.com/98165424/208984015-1216f5ef-73a5-4634-ab50-edd1172ec9a6.png" width="400" height="250" >       | <img src="https://user-images.githubusercontent.com/98165424/208986387-0fbfb467-efe7-47cc-814a-bac0b6c709c1.png" width="400" height="250" >      |
-
-
+| **Radarfit**| **TrybeSmith** | **Blogs API** |
+| Node.js, Express, Typescript, MongoDB e Zod   | Node.js, Express, Typescript, MySQL e Docker     | Node.js, Express, Sequelize com MySQL e Docker    |
+| [Repositorio](https://github.com/felmartins1985/radarfit)    | [Repositorio](https://github.com/felmartins1985/trybesmith)        | [Repositorio](https://github.com/felmartins1985/blog-api) |
+| <img src="https://github.com/felmartins1985/radarfit/blob/main/frontend/src/images/Captura%20de%20tela%20de%202023-01-24%2015-17-08.png"  >   | <img src="https://user-images.githubusercontent.com/98165424/208984015-1216f5ef-73a5-4634-ab50-edd1172ec9a6.png" width="400" height="250" >       | <img src="https://user-images.githubusercontent.com/98165424/208986387-0fbfb467-efe7-47cc-814a-bac0b6c709c1.png" width="400" height="250" >      |
 
 
 
