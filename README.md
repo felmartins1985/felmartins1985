@@ -1,5 +1,6 @@
 # Oi, meu nome é Felipe! 👋
 
+![](https://komarev.com/ghpvc/?username=felmartins1985)
 ### Contatos:
 <a href = "mailto:contato@felmartins1985@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felmartins1985" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
