@@ -10,11 +10,12 @@
 Eu sou engenheiro de software, residente em Belo Horizonte/MG. Fiz transição de carreira do direito para programador e não posso estar mais satisfeito com o caminho o qual escolhi!
 Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído diversos consoles e computadores desde a minha infância, passando horas envolvido nos jogos e nos programas disponibilizados.
 Posso dizer que os meus hobbies preferidos atualmente são assistir séries e ler livros sobre ficção.
-
+Experiências Profissionais: LEVTY (MAR/23-MAR/24) e BIGTRADE(JUN/24-SET/24)
 <br />
 
 ### About me 
 I'm a software engineer, residing in Belo Horizonte/MG. I made a career transition from law to programming and I can't be more satisfied with the path I chose! I have been fascinated by technology since I was little, as I have owned several consoles and computers since my childhood, spending hours involved in the games and programs available. I can say that my current favorite hobbies are watching series and reading fiction books.
+Professional Experiences: LEVTY (MAR/23-MAR/24) and BIGTRADE(JUN/24-SEP/24)
 
 <br/>
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
