@@ -19,7 +19,7 @@ Experiências Profissionais: LEVTY (MAR/23-MAR/24), BIGTRADE(JUN/24-SET/24) e IE
 I'm a software engineer, residing in Belo Horizonte/MG. I made a career transition from law to programming and I can't be more satisfied with the path I chose! I have been fascinated by technology since I was little, as I have owned several consoles and computers since my childhood, spending hours involved in the games and programs available. I can say that my current favorite hobbies are watching series and reading fiction books.
 <br/>
 <br/>
-Professional Experiences: LEVTY (MAR/23-MAR/24) and BIGTRADE(JUN/24-SEP/24)
+Professional Experiences: LEVTY (MAR/23-MAR/24), BIGTRADE(JUN/24-SEP/24) and IEBT(JAN/25-)
 
 <br/>
 <!-- Source: https://github.com/lucas-caribe/lucas-caribe/edit/main/README.md /> -->
