@@ -12,7 +12,7 @@ Sou desde pequeno uma pessoa fascinada pela tecnologia, haja vista ter possuído
 Posso dizer que os meus hobbies preferidos atualmente são assistir séries e ler livros sobre ficção.
 <br/>
 <br/>
-Experiências Profissionais: LEVTY (MAR/23-MAR/24) e BIGTRADE(JUN/24-SET/24)
+Experiências Profissionais: LEVTY (MAR/23-MAR/24), BIGTRADE(JUN/24-SET/24) e IEBT(JAN/25-)
 <br />
 
 ### About me 
